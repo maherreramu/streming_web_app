@@ -1,0 +1,9 @@
+To pull images from frontend and backend projecr tyoe the next commands
+
+backend:
+
+docker pull maherreramu/node_streaming_backend:v1.0
+
+frontend:
+
+docker pull maherreramu/node_streaming_frontend:v1.0
